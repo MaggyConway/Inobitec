@@ -1,0 +1,12 @@
+.manual__image{
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    margin: 40px 0 20px 0;
+    border: 1px dashed #dedede;
+    padding: 20px;
+}
+
+.manual__image img{
+    margin: 0 0 20px 0;
+}

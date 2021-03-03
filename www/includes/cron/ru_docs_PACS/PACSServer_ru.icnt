@@ -1,0 +1,164 @@
+  <ul class="Container">
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruli1.html.html" id="PACSServer_ruli1.html" data-site-id="about-this-manual">О данном руководстве</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli2.html.html" id="PACSServer_ruli2.html" data-site-id="accepted-conventions">Принятые соглашения</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruli3.html.html" id="PACSServer_ruli3.html" data-site-id="technical-support">О технической поддержке</a></div>
+      <ul class="Container">
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruli4.html.html" id="PACSServer_ruli4.html" data-site-id="about-the-product">О продукте</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli5.html.html" id="PACSServer_ruli5.html" data-site-id="functionality">Функциональность DICOM-Сервера</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruli6.html.html" id="PACSServer_ruli6.html" data-site-id="installing-uninstalling-and-launching-the-program">Установка, удаление и запуск программы</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli7.html.html" id="PACSServer_ruli7.html" data-site-id="system-requirements">Системные требования</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli8.html.html" id="PACSServer_ruli8.html" data-site-id="installing-and-uninstalling-the-program">Установка, обновление и удаление программы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli9.html.html" id="PACSServer_ruli9.html" data-site-id="launching-the-web-viewer">Запуск программы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruli10.html.html" id="PACSServer_ruli10.html" data-site-id="getting-started">Начало работы с программой</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch1.html.html" id="PACSServer_ruch1.html" data-site-id="server-settings">1. Настройка DICOM-Сервера</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse1.html.html" id="PACSServer_ruse1.html" data-site-id="configuration-file-srv_settings">1.1. Конфигурационный файл srv\_settings.ini</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse2.html.html" id="PACSServer_ruse2.html" data-site-id="logging-settings">1.2. Настройка протоколирования</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch2.html.html" id="PACSServer_ruch2.html" data-site-id="licensing">2. Лицензирование</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse3.html.html" id="PACSServer_ruse3.html" data-site-id="licensing-general-information">2.1. Общие сведения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse4.html.html" id="PACSServer_ruse4.html" data-site-id="licensing-process">2.2. Лицензирование</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch3.html.html" id="PACSServer_ruch3.html" data-site-id="wokring-with-studies">3. Работа с исследованиями</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse5.html.html" id="PACSServer_ruse5.html" data-site-id="uploading-studies">3.1. Загрузка исследований на DICOM-Сервер</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse6.html.html" id="PACSServer_ruse6.html" data-site-id="studies-storage">3.2. Хранение исследований</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse7.html.html" id="PACSServer_ruse7.html" data-site-id="regional-dicom-server">3.3. Региональный DICOM-сервер</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse8.html.html" id="PACSServer_ruse8.html" data-site-id="data-storage">3.4. Хранение данных</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch4.html.html" id="PACSServer_ruch4.html" data-site-id="working-with-a-modality-worklist">4. Работа с рабочим списком исследований</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse9.html.html" id="PACSServer_ruse9.html" data-site-id="creating-a-modality-worklist">4.1. Формирование рабочего списка исследований</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse10.html.html" id="PACSServer_ruse10.html" data-site-id="editing-the-status-of-a-scheduled-study">4.2. Изменение статуса запланированного исследования</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch5.html.html" id="PACSServer_ruch5.html" data-site-id="server-management-web-console">5. Веб-консоль управления DICOM-Сервером</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse11.html.html" id="PACSServer_ruse11.html" data-site-id="opening-the-web-console">5.1. Открытие веб-консоли</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse12.html.html" id="PACSServer_ruse12.html" data-site-id="settings">5.2. Настройка DICOM-Сервера</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse13.html.html" id="PACSServer_ruse13.html" data-site-id="web-viewer-settings">5.3. Настройка веб-просмотрщика</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse14.html.html" id="PACSServer_ruse14.html" data-site-id="log-viewing">5.4. Просмотр журнала</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse15.html.html" id="PACSServer_ruse15.html" data-site-id="viewing-studies">5.5. Просмотр исследований</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse16.html.html" id="PACSServer_ruse16.html" data-site-id="image-viewing">5.6. Просмотр изображений</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch6.html.html" id="PACSServer_ruch6.html" data-site-id="email-notification">6. Отправка писем</a></div>
+      <ul class="Container">
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="PACSServer_ruch7.html.html" id="PACSServer_ruch7.html" data-site-id="dcm_import-utility">7. Утилита dcm\_import</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse17.html.html" id="PACSServer_ruse17.html" data-site-id="using-dcm_import-in-the-interactive-mode">7.1. Использование dcm\_import в интерактивном режиме</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="PACSServer_ruse18.html.html" id="PACSServer_ruse18.html" data-site-id="using-dcm_import-with-command-line-parameters">7.2. Использование dcm\_import с параметрами командной строки</a></div>
+        </div>
+      </ul>
+    </div>
+  </ul>

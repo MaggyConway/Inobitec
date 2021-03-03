@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Unternehmen", 
+		"/deu/about/mission/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Dienstleistungen", 
+		"/deu/services/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Produkte", 
+		"/deu/products/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Downloads", 
+		"/deu/downloads/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Support", 
+		"/deu/support/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Distribution", 
+		"/deu/distribution/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Kaufen", 
+		"/deu/buy/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

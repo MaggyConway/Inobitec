@@ -1,0 +1,9 @@
+<?
+$MESS["INOBITEC.SUBSCRIBE.FORM.SUBSCRIBE_AND_TRACK"] = "subscribe to the newsletter and stay tuned";
+$MESS["INOBITEC.SUBSCRIBE.FORM.SUBSCRIBE"] = "subscribe";
+$MESS["INOBITEC.SUBSCRIBE.FORM.EMAIL"] = "Email";
+$MESS["INOBITEC.SUBSCRIBE.FORM.AGREE_WITH"] = "I agree with the";
+$MESS["INOBITEC.SUBSCRIBE.FORM.CONTRACT_OFFER"] = "Licensed contract offer";
+$MESS["INOBITEC.SUBSCRIBE.FORM.AND"] = "and";
+$MESS["INOBITEC.SUBSCRIBE.FORM.PERSONAL_DATA_PROCESSING"] = "processing of my personal data";
+?>

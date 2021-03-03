@@ -1,0 +1,28 @@
+{
+  "name": "bho_node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Alsair@bitbucket.org/Alsair/bho_node.git"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "browser-sync": "^2.26.3",
+    "create-react-app": "^2.1.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  },
+  "homepage": "https://bitbucket.org/Alsair/bho_node#readme",
+  "dependencies": {}
+}

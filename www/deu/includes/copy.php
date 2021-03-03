@@ -1,0 +1,1 @@
+© <?echo date('Y');?> INOBITEC. GmbH. Alle Rechte vorbehalten

@@ -1,0 +1,127 @@
+.page_buy{
+	&_element{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		margin-bottom: 100px;
+
+		@media screen and (max-width: 1020px){
+			display: block;
+			position: relative;
+			margin-bottom: 40px;
+		}
+
+		&_img{
+			width: 340px;
+			max-width: 340px;
+			min-width: 340px;
+
+			margin-right: 100px;
+
+			img{
+				width: 100%;
+			}
+
+			@media screen and (max-width: 1020px){
+				width: 140px;
+				min-width: 140px;
+				margin-right: 0px;
+
+				position: absolute;
+				top: 0px;
+				left: 0px;
+			}
+		}
+		&_text{
+			width: 560px;
+			max-width: 560px;
+			min-width: 560px;
+
+			@media screen and (max-width: 1020px){
+				width: 100%;
+				max-width: 100%;
+				min-width: 0px;
+			}
+
+			&_company{
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 36px;
+				line-height: normal;
+				letter-spacing: 0.5em;
+
+				color: #000000;
+
+				margin-bottom: 8px;
+
+				@media screen and (max-width: 1020px){
+					font-size: 18px;
+					padding-left: 170px;
+					margin-bottom: 6px;
+				}
+			}
+			&_name{
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: bold;
+				font-size: 64px;
+				line-height: normal;
+
+				color: #426DA9;
+
+				@media screen and (max-width: 1020px){
+					padding-left: 170px;
+					font-size: 24px;
+					min-height: 130px;
+				}
+
+				span{
+					display: block;
+					margin-top: 9px;
+					margin-bottom: 8px;
+
+					font-family: RobotoMonoRegular,sans-serif;
+					font-style: normal;
+					font-weight: bold;
+					font-size: 36px;
+					line-height: normal;
+
+					@media screen and (max-width: 1020px){
+						margin-top: 4px;
+						font-size: 18px;
+
+						margin-bottom: 50px;
+					}
+				}
+			}
+
+			p{
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 14px;
+				line-height: normal;
+
+				color: #000000;
+				margin: 0 0 40px !important;
+
+				@media screen and (max-width: 1020px){
+					margin: 0 0 35px !important;
+				}
+			}
+		}
+	}
+
+	&_button{
+		@media screen and (max-width: 1020px){
+			margin: 0 auto;
+		}
+	}
+	&_delete_basket{
+		position: relative;
+		top: 10px;
+		text-align: center;
+	}
+}

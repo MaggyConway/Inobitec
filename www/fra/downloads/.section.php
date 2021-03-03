@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Téléchargements";
+$arDirProperties = Array(
+
+);
+?>

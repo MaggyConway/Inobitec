@@ -1,0 +1,34 @@
+<svg width="50" height="80" viewBox="0 0 50 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M0 49.216V55.368C0 56.405 22.681 58.1418 37.4583 61.52C44.5969 59.8878 49.8925 57.8732 49.8925 55.368V49.216C49.8925 46.7122 44.5969 44.6962 37.4583 43.064C22.6808 46.4428 0 48.1798 0 49.216Z" fill="url(#paint0_linear)"/>
+<path d="M0 24.6081V30.7601C0 31.7971 22.681 33.5339 37.4583 36.9121C44.5969 35.2799 49.8925 33.2653 49.8925 30.7601V24.6081C49.8925 22.1042 44.5969 20.0883 37.4583 18.4561C22.6808 21.8349 0 23.5719 0 24.6081Z" fill="url(#paint1_linear)"/>
+<path d="M0 36.9119V55.3679C0 53.8299 49.8925 50.7539 49.8925 43.0639V24.6079C49.8925 32.2979 0 35.3739 0 36.9119Z" fill="url(#paint2_linear)"/>
+<path d="M0 12.304V30.76C0 29.222 49.8925 26.146 49.8925 18.456V1.14441e-05C49.8925 7.69001 0 10.766 0 12.304Z" fill="url(#paint3_linear)"/>
+<path d="M0 61.5201V79.9761C0 78.4381 49.8925 75.3621 49.8925 67.6721V49.2161C49.8925 56.9061 0 59.9821 0 61.5201Z" fill="url(#paint4_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="52.292" x2="49.8925" y2="52.292" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F4F4F"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="27.6841" x2="49.8925" y2="27.6841" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F4F4F"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="0" y1="39.9879" x2="49.8925" y2="39.9879" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C40000"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="0" y1="15.38" x2="49.8925" y2="15.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C40000"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="0" y1="64.5961" x2="49.8925" y2="64.5961" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C40000"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="49.8925" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>

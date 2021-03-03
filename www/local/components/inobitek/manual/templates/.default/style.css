@@ -1,0 +1,28 @@
+td img{
+  min-width: 20px;
+  margin-right: 8px;
+}
+
+.manual__right{
+  white-space: normal!important;
+  width: 100%!important;
+}
+
+tbody tr td{
+  white-space: normal!important;
+  padding: 0 8px!important;
+}
+
+.content-block a,p{
+  white-space: normal!important;
+}
+
+.manual__page img{
+  max-width: 900px!important;
+}
+
+table{
+  border: 3px solid #c3e0ef;
+  padding: 8px;
+  border-collapse: unset!important;
+}

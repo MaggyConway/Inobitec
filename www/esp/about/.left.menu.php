@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"MISIÓN", 
+		"/esp/about/mission/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"SOCIOS", 
+		"/esp/about/partners/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Opiniones", 
+		"/esp/about/reviews/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Vacantes", 
+		"/esp/about/vacancies/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"MEDIOS DE COMUNICACIÓN", 
+		"/esp/about/media/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"CONTACTO", 
+		"/esp/about/contacts/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

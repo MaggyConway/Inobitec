@@ -1,0 +1,357 @@
+.clear{
+	display: block;
+	clear: both;
+}
+
+.rub{
+	&:after{
+		margin-left: 8px;
+		display: inline-block;
+		content: '';
+		background-image: url(../img/svg/rub.svg);
+		width: 19px;
+		height: 18px;
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+}
+
+.header__menu{
+	ul{
+	}
+
+	li{
+		img{
+
+		}
+	}
+
+	.top_menu_button{
+		& > a, & > div{
+			position: relative;
+			border-bottom: none !important;
+			padding-bottom: 0px !important;
+			max-height: 16px;
+			display: flex;
+			align-items: center;
+
+			&:hover{
+				opacity: 0.8;
+			}
+
+			img{
+				width: 45px;
+				height: 45px;
+
+				@media screen and (max-width: 1300px){
+					width: 30px;
+					height: 30px;
+				}
+			}
+
+			span{
+				position: absolute;
+				top: -20px;
+				right: -10px;
+				border: none !important;
+
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 14px;
+				line-height: 24px;
+
+				letter-spacing: 0.24em;
+
+				color: #426DA9;
+				text-align: center;
+				width: 24px;
+				height: 24px;
+				border-radius: 24px;
+				background: #FFFFFF;
+
+				@media screen and (max-width: 1300px){
+					top: -15px;
+					font-size: 11px;
+					letter-spacing: 0em;
+					width: 17px;
+					height: 17px;
+					line-height: 17px;
+				}
+			}
+		}
+	}
+
+	.menu_basket{
+		& > a, & > div{
+			align-items: flex-start;
+			opacity: 1 !important;
+
+			img{
+				width: 30px;
+				height: 27px;
+
+				@media screen and (max-width: 1300px){
+					width: 21px;
+					height: 23px;
+				}
+			}
+
+			&:hover{
+				& > img{
+					opacity: 0.8;
+				}
+			}
+		}
+
+		.sub_basket{
+			display: none;
+			position: absolute;
+			top: calc(100% + 35px); right: 15px;
+			max-height: 1000000px;
+			width: 320px;
+
+			padding: 33px 25px 25px !important;
+			background: #FFFFFF;
+			box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.25);
+
+			z-index: 15;
+
+			&:before{
+				top: 0px;
+				right: 0px;
+				position: absolute;
+				content: "";
+				display: block;
+
+				border-right: 31px solid #fff;
+				border-top: 31px solid transparent;
+				border-bottom: 31px solid transparent;
+
+				transition: all 0.3s ease;
+			}
+
+			&.openned{
+				&:before{
+					top: -31px;
+				}
+			}
+
+			&_title{
+				font-style: normal;
+				font-weight: bold;
+				font-size: 18px;
+				line-height: 21px;
+				letter-spacing: 0.2em;
+				text-transform: uppercase;
+				text-align: center;
+
+				color: #000000;
+
+				span{
+					top: 0px;
+					right: 0px;
+					left: 0px;
+					display: block;
+					position: relative;
+					width: 100%;
+					font-style: normal;
+					font-weight: normal;
+					font-size: 11px;
+					line-height: 13px;
+					text-align: center;
+
+					color: #426DA9;
+
+					margin-bottom: 20px;
+				}
+			}
+
+			&_product{
+				&_title{
+					display: block;
+					font-style: normal;
+					font-weight: bold;
+					font-size: 14px;
+					line-height: 16px;
+					text-decoration-line: underline;
+					text-transform: uppercase;
+
+					color: #426DA9;
+
+					padding-bottom: 0px !important;
+					border-bottom: none !important;
+					margin-bottom: 10px;
+
+					&:hover{
+						color: #002855;
+					}
+				}
+				&_element{
+					padding-left: 25px;
+					margin-bottom: 20px;
+					position: relative;
+
+					&_name{
+						font-style: normal;
+						font-weight: normal;
+						font-size: 14px;
+						line-height: 16px;
+						letter-spacing: 0;
+
+						color: #000000;
+					}
+					&_price{
+						font-style: normal;
+						font-weight: normal;
+						font-size: 14px;
+						line-height: 16px;
+
+						color: #426DA9;
+					}
+					&_del{
+						width: 12px;
+						height: 12px;
+
+						position: absolute;
+						top: 0px;
+						right: 0px;
+
+						opacity: 0.6;
+						transition: opacity 0.3s ease;
+						cursor: pointer;
+						background-image: url("../img/svg/delete.svg");
+						background-size: contain;
+						background-repeat: no-repeat;
+						background-position: center center;
+
+						&:hover{
+							opacity: 1;
+						}
+					}
+				}
+			}
+			&_summ{
+				font-style: normal;
+				font-weight: bold;
+				font-size: 18px;
+				line-height: 21px;
+				text-transform: uppercase;
+				letter-spacing: 0;
+				text-align: center;
+				margin-top: 30px;
+				margin-bottom: 15px;
+
+				color: #426DA9;
+			}
+
+			.btn_n{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				width: 200px;
+				height: 50px;
+
+				margin: 0 auto;
+				padding-bottom: 0px !important;
+
+				border: 2px solid #426DA9;
+				box-sizing: border-box;
+				border-radius: 10px;
+
+				color: #426DA9;
+
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: bold;
+				font-size: 12px;
+				line-height: 14px;
+				letter-spacing: 0.2em;
+				text-transform: uppercase;
+
+				color: #426DA9;
+
+				cursor: pointer;
+				transition: all 0.3s ease;
+
+				&:hover{
+					border-color: #002855;
+					color: #002855;
+				}
+			}
+		}
+	}
+}
+
+.mobile-menu{
+
+	ul + ul{
+		&:after{
+			display: block;
+			content: "";
+			clear: both;
+		}
+	}
+
+	.top_menu_button{
+		width: 50%;
+		float: left;
+		text-align: right;
+		padding-right: 10px;
+
+		&.menu_basket {
+			text-align: left;
+			padding-left: 10px;
+		}
+
+		a, div{
+			border-top: none !important;
+			position: relative;
+
+			span{
+				position: absolute;
+				top: -5px;
+				left: 21px;
+				border: none !important;
+
+				font-family: RobotoMonoRegular,sans-serif;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 14px;
+				line-height: 24px;
+
+				letter-spacing: 0.24em;
+
+				color: #426DA9;
+				text-align: center;
+				width: 24px;
+				height: 24px;
+				border-radius: 24px;
+				background: #FFFFFF;
+
+				text-align: center;
+			}
+		}
+
+		.sub_basket{
+			display: none !important;
+		}
+	}
+}
+
+.img_href{
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
+
+@import "layout/_buttons";
+@import "layout/_input_range";
+@import "layout/_tab_nav";
+
+@import "blocks/_basket_form";
+
+@import "pages/_page_buy";
+@import "pages/_page_buy_p";
+@import "pages/_page_basket";
+@import "pages/_lk";

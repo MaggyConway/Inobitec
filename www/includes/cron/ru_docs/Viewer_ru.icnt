@@ -1,0 +1,816 @@
+  <ul class="Container">
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruli1.html.html" id="Viewer_ruli1.html" data-site-id="about-this-manual">О данном руководстве</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli2.html.html" id="Viewer_ruli2.html" data-site-id="accepted-conventions">Принятые соглашения</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruli3.html.html" id="Viewer_ruli3.html" data-site-id="technical-support">О технической поддержке</a></div>
+      <ul class="Container">
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruli4.html.html" id="Viewer_ruli4.html" data-site-id="about-the-product">О продукте</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli5.html.html" id="Viewer_ruli5.html" data-site-id="viewer-functionality">Функциональность DICOM-Просмотрщика</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli6.html.html" id="Viewer_ruli6.html" data-site-id="dicom-data-overview">Новые функции в версии 2.2</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruli7.html.html" id="Viewer_ruli7.html" data-site-id="installing-uninstalling-and-launching-the-program">Установка, удаление и запуск программы</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli8.html.html" id="Viewer_ruli8.html" data-site-id="system-requirements">Системные требования</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli9.html.html" id="Viewer_ruli9.html" data-site-id="installing-and-uninstalling-the-program">Установка и удаление программы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli10.html.html" id="Viewer_ruli10.html" data-site-id="launching-the-program">Запуск программы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli11.html.html" id="Viewer_ruli11.html" data-site-id="service-files">Служебные файлы программы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli12.html.html" id="Viewer_ruli12.html" data-site-id="launching-the-web-viewer">Запуск веб-просмотрщика</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli13.html.html" id="Viewer_ruli13.html" data-site-id="getting-started">Начало работы с программой</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch1.html.html" id="Viewer_ruch1.html" data-site-id="program-window-elements">1. Описание элементов окна программы</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse1.html.html" id="Viewer_ruse1.html" data-site-id="main-menu">1.1. Главное меню</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse2.html.html" id="Viewer_ruse2.html" data-site-id="windows-management">1.2. Управление окном</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse3.html.html" id="Viewer_ruse3.html" data-site-id="tab-panel">1.3. Панель вкладок</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse4.html.html" id="Viewer_ruse4.html" data-site-id="tollbar">1.4. Панель инструментов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse5.html.html" id="Viewer_ruse5.html" data-site-id="select-data-source">1.5. Выбор источника данных</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse6.html.html" id="Viewer_ruse6.html" data-site-id="save-studies-to-the-folder">1.6. Сохранение исследований в папку</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse7.html.html" id="Viewer_ruse7.html" data-site-id="search-panel">1.7. Панель поиска</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse8.html.html" id="Viewer_ruse8.html" data-site-id="select-server-panel">1.8. Панель выбора сервера</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse9.html.html" id="Viewer_ruse9.html" data-site-id="study-panel">1.9. Панель исследований</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse10.html.html" id="Viewer_ruse10.html" data-site-id="series-panel">1.10. Панель серий</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse11.html.html" id="Viewer_ruse11.html" data-site-id="studies-and-series-import-export-panels">1.11. Панели загрузки/выгрузки исследований и серий</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse12.html.html" id="Viewer_ruse12.html" data-site-id="information-panel">1.12. Панель информации</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse13.html.html" id="Viewer_ruse13.html" data-site-id="uncompress-series">1.13. Распаковка серий</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse14.html.html" id="Viewer_ruse14.html" data-site-id="tool-control-buttons">1.14. Кнопки управления инструментами</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch2.html.html" id="Viewer_ruch2.html" data-site-id="viewflatimages">2. Просмотр плоских изображений</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse15.html.html" id="Viewer_ruse15.html" data-site-id="open-series-2d">2.1. Открытие серии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse16.html.html" id="Viewer_ruse16.html" data-site-id="open-series-with-current-settings-2d">2.2. Открытие серии с текущими настройками</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse17.html.html" id="Viewer_ruse17.html" data-site-id="several-monitors-snd-splited-screen">2.3. Особенности работы с несколькими мониторами и разделённым экраном</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse18.html.html" id="Viewer_ruse18.html" data-site-id="resampling-filter">2.4. Выбор интерполяционного фильтра</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse19.html.html" id="Viewer_ruse19.html" data-site-id="view-images-in-a-series">2.5. Просмотр изображений серии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse20.html.html" id="Viewer_ruse20.html" data-site-id="switch-between-series">2.6. Переключение между сериями</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse21.html.html" id="Viewer_ruse21.html" data-site-id="view-several-studies-at-a-time">2.7. Просмотр нескольких исследований одновременно</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse22.html.html" id="Viewer_ruse22.html" data-site-id="view-multiple-series">2.8. Просмотр нескольких серий одновременно</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse23.html.html" id="Viewer_ruse23.html" data-site-id="view-multiple-images-in-the-same-series-simultaneously">2.9. Просмотр нескольких изображений одной серии одновременно</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse24.html.html" id="Viewer_ruse24.html" data-site-id="play-images-2d">2.10. Инструмент "Воспроизвести"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse25.html.html" id="Viewer_ruse25.html" data-site-id="video-recording-2d">2.11. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse26.html.html" id="Viewer_ruse26.html" data-site-id="zoom-pan-rotate">2.12. Масштабирование. Перемещение. Поворот</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse27.html.html" id="Viewer_ruse27.html" data-site-id="set-window-level-and-width">2.13. Настройка уровня и ширины окна</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse28.html.html" id="Viewer_ruse28.html" data-site-id="magnifier-2d">2.14. Лупа</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse29.html.html" id="Viewer_ruse29.html" data-site-id="measurements-2d">2.15. Измерения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse30.html.html" id="Viewer_ruse30.html" data-site-id="perfusion">2.16. Режим оценки параметров перфузии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse31.html.html" id="Viewer_ruse31.html" data-site-id="visualize-images">2.17. Визуализация изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse32.html.html" id="Viewer_ruse32.html" data-site-id="suv-2d">2.18. Измерение SUV</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse33.html.html" id="Viewer_ruse33.html" data-site-id="calcium-scoring-2d">2.19. Определение концентрации кальция в коронарных артериях</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse34.html.html" id="Viewer_ruse34.html" data-site-id="scout-lines-2d">2.20. Проекции срезов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse35.html.html" id="Viewer_ruse35.html" data-site-id="set-up-viewer-workspace-2d">2.21. Настройка рабочей области DICOM-Просмотрщика</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse36.html.html" id="Viewer_ruse36.html" data-site-id="export-images-2d">2.22. Экспорт изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse37.html.html" id="Viewer_ruse37.html" data-site-id="dsa-2d">2.23. Режим DSA</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse38.html.html" id="Viewer_ruse38.html" data-site-id="image-information-in-the-series-window-2d">2.24. Информация об изображении в окне серии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse39.html.html" id="Viewer_ruse39.html" data-site-id="view-dicom-tags-2d">2.25. Просмотр DICOM-тегов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse40.html.html" id="Viewer_ruse40.html" data-site-id="graphic-label-tool-2d">2.26. Инструмент "Графическая аннотация"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse41.html.html" id="Viewer_ruse41.html" data-site-id="synchronize-images-2d">2.27. Синхронизация снимков</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse42.html.html" id="Viewer_ruse42.html" data-site-id="mirror-image-horizontally-vertically-2d">2.28. Инструмент "Отразить изображение горизонтально/  вертикально"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse43.html.html" id="Viewer_ruse43.html" data-site-id="additional-options-2d">2.29. Калибровка размеров</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse44.html.html" id="Viewer_ruse44.html" data-site-id="adc">2.30. Измеряемый коэффициент диффузии</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch3.html.html" id="Viewer_ruch3.html" data-site-id="volume-reconstruction">3. Объёмная реконструкция</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse45.html.html" id="Viewer_ruse45.html" data-site-id="view-images-3d">3.1. Просмотр изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse46.html.html" id="Viewer_ruse46.html" data-site-id="actions-with-the-model-3d">3.2. Действия с моделью</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse47.html.html" id="Viewer_ruse47.html" data-site-id="model-positioning-tools-3d">3.3. Инструменты позиционирования модели</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse48.html.html" id="Viewer_ruse48.html" data-site-id="play-model-3d">3.4. Инструмент "Воспроизвести"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse49.html.html" id="Viewer_ruse49.html" data-site-id="video-recording-3d">3.5. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse50.html.html" id="Viewer_ruse50.html" data-site-id="cutting-tools-3d">3.6. Инструменты вырезания</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse51.html.html" id="Viewer_ruse51.html" data-site-id="centrate-3d">3.7. Центрирование</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse52.html.html" id="Viewer_ruse52.html" data-site-id="clipping-box-3d">3.8. Куб видимости</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse53.html.html" id="Viewer_ruse53.html" data-site-id="measurements-3d">3.9. Измерения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse54.html.html" id="Viewer_ruse54.html" data-site-id="markers-3d">3.10. Маркеры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse55.html.html" id="Viewer_ruse55.html" data-site-id="export-model-3d">3.11. Экспорт модели</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse56.html.html" id="Viewer_ruse56.html" data-site-id="render-settings-3d">3.12. Настройка визуализации</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse57.html.html" id="Viewer_ruse57.html" data-site-id="reconstruction-with-varying-distances-between-slices-3d">3.13. Реконструкция по серии с различными расстояниями между срезами</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse58.html.html" id="Viewer_ruse58.html" data-site-id="remove-bone-tissue-3d">3.14. Удаление костных структур</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch4.html.html" id="Viewer_ruch4.html" data-site-id="reries-fusion">4. Объединение серий</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse59.html.html" id="Viewer_ruse59.html" data-site-id="volume-reconstruction-of-cardiac-studies">4.1. Объёмная реконструкция исследований Cardiac</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse60.html.html" id="Viewer_ruse60.html" data-site-id="merge-series-from-different-studies">4.2. Объединение серий из разных исследований</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse61.html.html" id="Viewer_ruse61.html" data-site-id="merge-layers">4.3. Совмещение слоёв</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse62.html.html" id="Viewer_ruse62.html" data-site-id="image-registration">4.4. Региcтрация изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse63.html.html" id="Viewer_ruse63.html" data-site-id="actions-with-theffused-series">4.5. Действия с объединённой серией</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse64.html.html" id="Viewer_ruse64.html" data-site-id="image-stitching-mode">4.6. "Сшивка" слоёв</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch5.html.html" id="Viewer_ruch5.html" data-site-id="mpr">5. Мультипланарная реконструкция (МПР)</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse65.html.html" id="Viewer_ruse65.html" data-site-id="open-study-mpr">5.1. Открытие исследования в окне мультипланарной реконструкции</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse66.html.html" id="Viewer_ruse66.html" data-site-id="view-images-mpr">5.2. Элементы представления МПР</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse67.html.html" id="Viewer_ruse67.html" data-site-id="orthogonal-planes-mpr">5.3. Работа с ортогональными плоскостями</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse68.html.html" id="Viewer_ruse68.html" data-site-id="curvilinear-reconstruction-mpr">5.4. Криволинейная реконструкция</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse69.html.html" id="Viewer_ruse69.html" data-site-id="play-model-mpr">5.5. Инструмент "Воспроизвести"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse70.html.html" id="Viewer_ruse70.html" data-site-id="video-recording-mpr">5.6. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse71.html.html" id="Viewer_ruse71.html" data-site-id="markers-mpr">5.7. Маркеры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse72.html.html" id="Viewer_ruse72.html" data-site-id="reconstruction-modes-mpr">5.8. Режимы реконструкции. Толщина слоя</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse73.html.html" id="Viewer_ruse73.html" data-site-id="rotate-image-in-the-section-plane-mpr">5.9. Поворот изображения в плоскости среза</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse74.html.html" id="Viewer_ruse74.html" data-site-id="mirror-image-horizontally-vertically-mpr">5.10. Инструмент "Отразить изображение горизонтально/  вертикально"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse75.html.html" id="Viewer_ruse75.html" data-site-id="show-labels-mpr">5.11. Инструмент "Показывать информацию"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse76.html.html" id="Viewer_ruse76.html" data-site-id="export-images-mpr">5.12. Экспорт изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse77.html.html" id="Viewer_ruse77.html" data-site-id="reslicing-mpr">5.13. Формирование серии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse78.html.html" id="Viewer_ruse78.html" data-site-id="measurements-mpr">5.14. Измерения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse79.html.html" id="Viewer_ruse79.html" data-site-id="annotations-mpr">5.15. Аннотации</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse80.html.html" id="Viewer_ruse80.html" data-site-id="volume-reconstruction-window-mpr">5.16. Объёмная реконструкция (3D-реконструкция)</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse81.html.html" id="Viewer_ruse81.html" data-site-id="dti-mpr">5.17. Режим просмотра диффузионной спектральной томографии (DTI)</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch6.html.html" id="Viewer_ruch6.html" data-site-id="segmentation">6. Сегментация</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse82.html.html" id="Viewer_ruse82.html" data-site-id="segmented-structures-panel">6.1. Панель сегментированных структур</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse83.html.html" id="Viewer_ruse83.html" data-site-id="segment-mask">6.2. Маска</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse84.html.html" id="Viewer_ruse84.html" data-site-id="create-segmented-structure">6.3. Создание сегментированной структуры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse85.html.html" id="Viewer_ruse85.html" data-site-id="edit-segmented-structure">6.4. Редактирование структуры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse86.html.html" id="Viewer_ruse86.html" data-site-id="create-mesh">6.5. Построение поверхности</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse87.html.html" id="Viewer_ruse87.html" data-site-id="union-subtraction-intersection">6.6. Объединение, вычитание и пересечение структур</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse88.html.html" id="Viewer_ruse88.html" data-site-id="actions-with-the-structure">6.7. Действия со структурой</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse89.html.html" id="Viewer_ruse89.html" data-site-id="import-surface">6.8. Импорт и экспорт</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse90.html.html" id="Viewer_ruse90.html" data-site-id="export-images-screws">6.9. Гистограммы</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch7.html.html" id="Viewer_ruch7.html" data-site-id="vessels-analysis-module">7. Анализ сосудов</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse91.html.html" id="Viewer_ruse91.html" data-site-id="open-studies-vessels">7.1. Открытие исследования в модуле анализа сосудов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse92.html.html" id="Viewer_ruse92.html" data-site-id="play-model-vessels">7.2. Инструмент "Воспроизвести"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse93.html.html" id="Viewer_ruse93.html" data-site-id="video-recording-vessels">7.3. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse94.html.html" id="Viewer_ruse94.html" data-site-id="centerline-building-mode-vessels">7.4. Режим построения центральной линии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse95.html.html" id="Viewer_ruse95.html" data-site-id="vessels-analysis-mode-vessels">7.5. Режим анализа сосудов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse96.html.html" id="Viewer_ruse96.html" data-site-id="coronary-arteries-analysis">7.6. Анализ коронарных артерий</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch8.html.html" id="Viewer_ruch8.html" data-site-id="pet-analysis-module">8. Анализ ПЭТ</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse97.html.html" id="Viewer_ruse97.html" data-site-id="open-studies-pet">8.1. Открытие исследования в окне анализа ПЭТ</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse98.html.html" id="Viewer_ruse98.html" data-site-id="view-elements-pet">8.2. Элементы представления</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse99.html.html" id="Viewer_ruse99.html" data-site-id="mip-pet">8.3. Режим MIP</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse100.html.html" id="Viewer_ruse100.html" data-site-id="play-model-pet">8.4. Инструмент "Воспроизвести"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse101.html.html" id="Viewer_ruse101.html" data-site-id="video-recording-pet">8.5. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse102.html.html" id="Viewer_ruse102.html" data-site-id="window-settings-pet">8.6. Настройка параметров окна</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse103.html.html" id="Viewer_ruse103.html" data-site-id="image-positioning-pet">8.7. Позиционирование изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse104.html.html" id="Viewer_ruse104.html" data-site-id="visualize-images-pet">8.8. Визуализация изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse105.html.html" id="Viewer_ruse105.html" data-site-id="measurements-and-annotations-pet">8.9. Измерения и аннотации</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse106.html.html" id="Viewer_ruse106.html" data-site-id="voi-sphere-pet">8.10. Измерение среднего значения и стандартного отклонения интенсивности в пространстве</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch9.html.html" id="Viewer_ruch9.html" data-site-id="virtual-endoscopy">9. Виртуальная эндоскопия</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse107.html.html" id="Viewer_ruse107.html" data-site-id="open-studies-virtual-endoscopy">9.1. Открытие исследования в окне виртуальной эндоскопии</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse108.html.html" id="Viewer_ruse108.html" data-site-id="view-elements-virtual-endoscopy">9.2. Элементы представления. Настройка панели МПР</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse109.html.html" id="Viewer_ruse109.html" data-site-id="move-samera-virtual-endoscopy">9.3. Перемещение камеры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse110.html.html" id="Viewer_ruse110.html" data-site-id="video-recording-ve">9.4. Запись видео</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse111.html.html" id="Viewer_ruse111.html" data-site-id="customize-image-virtual-endoscopy">9.5. Настройка изображения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse112.html.html" id="Viewer_ruse112.html" data-site-id="measurements-and-markers-virtual-endoscopy">9.6. Измерения и маркеры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse113.html.html" id="Viewer_ruse113.html" data-site-id="mpr-virtual-endoscopy">9.7. Мультипланарная реконструкция</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse114.html.html" id="Viewer_ruse114.html" data-site-id="surface-reconstruction-virtual-endoscopy">9.8. Полигональная реконструкция</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse115.html.html" id="Viewer_ruse115.html" data-site-id="export-endoscopy">9.9. Экспорт</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch10.html.html" id="Viewer_ruch10.html" data-site-id="ecg">10. Просмотр ЭКГ</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse116.html.html" id="Viewer_ruse116.html" data-site-id="data-source-ecg">10.1. Выбор источника данных</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse117.html.html" id="Viewer_ruse117.html" data-site-id="open-series-ecg">10.2. Открытие серии в окне просмотра ЭКГ</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse118.html.html" id="Viewer_ruse118.html" data-site-id="view-graphs-ecg">10.3. Просмотр графиков</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse119.html.html" id="Viewer_ruse119.html" data-site-id="toolbar-ecg">10.4. Панель инструментов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse120.html.html" id="Viewer_ruse120.html" data-site-id="frequency-filters-ecg">10.5. Частотные фильтры</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse121.html.html" id="Viewer_ruse121.html" data-site-id="export-series-ecg">10.6. Экспорт серий</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch11.html.html" id="Viewer_ruch11.html" data-site-id="Network">11. Сеть</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse122.html.html" id="Viewer_ruse122.html" data-site-id="services-network">11.1. Сервисы</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse123.html.html" id="Viewer_ruse123.html" data-site-id="pacs-server-connection-network">11.2. Настройка соединения с PACS-серверами</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse124.html.html" id="Viewer_ruse124.html" data-site-id="operation-status-network">11.3. Статус сетевых операций</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch12.html.html" id="Viewer_ruch12.html" data-site-id="storage">12. Локальное хранилище</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse125.html.html" id="Viewer_ruse125.html" data-site-id="view-storage-status">12.1. Просмотр состояния хранилища</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse126.html.html" id="Viewer_ruse126.html" data-site-id="verify-storage">12.2. Проверка хранилища</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse127.html.html" id="Viewer_ruse127.html" data-site-id="clear-storage">12.3. Очистка хранилища</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse128.html.html" id="Viewer_ruse128.html" data-site-id="automatic-storage-cleaning">12.4. Автоматическая очистка хранилища</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch13.html.html" id="Viewer_ruch13.html" data-site-id="disk-creator">13. Редактор дисков</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse129.html.html" id="Viewer_ruse129.html" data-site-id="about-disk-creator">13.1. Общие сведения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse130.html.html" id="Viewer_ruse130.html" data-site-id="add-data-to-disk-creator">13.2. Добавление данных к образу диска</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse131.html.html" id="Viewer_ruse131.html" data-site-id="burn-image">13.3. Запись образа</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse132.html.html" id="Viewer_ruse132.html" data-site-id="view-studies-written-on-disk">13.4. Просмотр исследований, записанных на диск</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch14.html.html" id="Viewer_ruch14.html" data-site-id="viewer-settings">14. Настройка DICOM-Просмотрщика</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse133.html.html" id="Viewer_ruse133.html" data-site-id="general-settings">14.1. Раздел "Общие"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse134.html.html" id="Viewer_ruse134.html" data-site-id="DICOM-settings">14.2. Раздел "DICOM"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse135.html.html" id="Viewer_ruse135.html" data-site-id="monitor-settings">14.3. Раздел "Монитор"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse136.html.html" id="Viewer_ruse136.html" data-site-id="skins-settings">14.4. Раздел "Стиль"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse137.html.html" id="Viewer_ruse137.html" data-site-id="modules-settings">14.5. Раздел "Модули"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse138.html.html" id="Viewer_ruse138.html" data-site-id="hotkeys-settings">14.6. Раздел "Горячие клавиши"</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse139.html.html" id="Viewer_ruse139.html" data-site-id="import-and-export-settings">14.7. Импорт и экспорт настроек</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch15.html.html" id="Viewer_ruch15.html" data-site-id="view-dicom-tags">15. Просмотр DICOM-тегов</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse140.html.html" id="Viewer_ruse140.html" data-site-id="about-dicom-tags">15.1. Общие сведения о DICOM-тегах</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse141.html.html" id="Viewer_ruse141.html" data-site-id="dicom-tags-view-window">15.2. Окно просмотра DICOM-тегов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse142.html.html" id="Viewer_ruse142.html" data-site-id="anonymize-studies-and-series">15.3. Анонимизация исследований и серий</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch16.html.html" id="Viewer_ruch16.html" data-site-id="print-images">16. Печать изображений</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse143.html.html" id="Viewer_ruse143.html" data-site-id="print-list">16.1. Список печати</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse144.html.html" id="Viewer_ruse144.html" data-site-id="edit-print-list-in-preview-window">16.2. Работа со списком печати в окнах предварительного просмотра</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse145.html.html" id="Viewer_ruse145.html" data-site-id="print-images-on-film">16.3. Печать изображений на плёнке</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse146.html.html" id="Viewer_ruse146.html" data-site-id="print-images-on-paper">16.4. Печать изображений из списка печати на бумаге</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse147.html.html" id="Viewer_ruse147.html" data-site-id="print-page-export">16.5. Экспорт страниц печати</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch17.html.html" id="Viewer_ruch17.html" data-site-id="licensing">17. Лицензирование</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse148.html.html" id="Viewer_ruse148.html" data-site-id="trial-period">17.1. Пробный период</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse149.html.html" id="Viewer_ruse149.html" data-site-id="the-first-launch-and-licensing">17.2. Первый запуск, лицензирование</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse150.html.html" id="Viewer_ruse150.html" data-site-id="purchase-of-a-license">17.3. Приобретение лицензии</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruch18.html.html" id="Viewer_ruch18.html" data-site-id="the-help-system-and-user-assistance">18. Справочная система и помощь пользователю</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse151.html.html" id="Viewer_ruse151.html" data-site-id="the-help-system">18.1. Электронная справочная система</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruse152.html.html" id="Viewer_ruse152.html" data-site-id="tooltips">18.2. Всплывающие подсказки</a></div>
+        </div>
+      </ul>
+    </div>
+    <div class="Node IsRoot ExpandClosed">
+      <div class="Expand"></div>
+      <div class="Content"><a href="Viewer_ruli14.html.html" id="Viewer_ruli14.html" data-site-id="hotkeys">"Горячие клавиши"</a></div>
+      <ul class="Container">
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli15.html.html" id="Viewer_ruli15.html" data-site-id="hotkeys-accepted-abbreviations">Условные сокращения</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli16.html.html" id="Viewer_ruli16.html" data-site-id="hotkeys-all-windows">Общие для всех окон сочетания клавиш</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli17.html.html" id="Viewer_ruli17.html" data-site-id="hotkeys-2d">Сочетания клавиш для управления в окне просмотра плоских изображений</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli18.html.html" id="Viewer_ruli18.html" data-site-id="hotkeys-3d">Сочетания клавиш для управления в окне объёмной реконструкции</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli19.html.html" id="Viewer_ruli19.html" data-site-id="hotkeys-dicom-tags-view-window">Сочетания клавиш для управления в окне просмотра DICOM-тегов</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli20.html.html" id="Viewer_ruli20.html" data-site-id="hotkeys-curvilinear-reconstruction-mode">Сочетания клавиш для управления в окне криволинейной реконструкции</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli21.html.html" id="Viewer_ruli21.html" data-site-id="hotkeys-mpr">Сочетания клавиш для управления в окне мультипланарной реконструкции</a></div>
+        </div>
+        <div class="Node ExpandLeaf IsLast">
+          <div class="Expand"></div>
+          <div class="Content"><a href="Viewer_ruli22.html.html" id="Viewer_ruli22.html" data-site-id="hotkeys-virtual-endoscopy">Сочетания клавиш для управления в окне виртуальной эндоскопии</a></div>
+        </div>
+      </ul>
+    </div>
+  </ul>

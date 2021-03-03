@@ -1,0 +1,148 @@
+<?
+$MESS['SOA_TEMPL_PERSON_TYPE'] = "Tipo de pagador";
+$MESS['SOA_TEMPL_BUTTON'] = "FINALIZAR LA COMPRA";
+$MESS['SOA_TEMPL_PROP_INFO'] = "Información para pago y entrega del pedido";
+$MESS['SOA_TEMPL_PROP_CHOOSE'] = "Seleccione un perfil:";
+$MESS['SOA_TEMPL_EXISTING_PROFILE'] = "Perfil de comprador:";
+$MESS['SOA_TEMPL_PROP_NEW_PROFILE'] = "Nuevo perfil";
+$MESS['SOA_TEMPL_PAY_SYSTEM'] = "Forma de pago";
+$MESS['SOA_TEMPL_PAY_ACCOUNT'] = "Pagar desde cuenta interna";
+$MESS['SOA_TEMPL_PAY_ACCOUNT1'] = "Tu cuenta de usuario tiene";
+$MESS['SOA_TEMPL_PAY_ACCOUNT2'] = "Puede utilizar para el reembolso total o parcial del importe del pedido.";
+$MESS['SOA_TEMPL_PAY_ACCOUNT3'] = "Hay fondos suficientes para el pago total del pedido.";
+$MESS['SOA_TEMPL_DELIVERY'] = "Servicio de entrega";
+$MESS['SOA_TEMPL_ORDER_SUC'] = "Su número de pedido <b>#ORDER_ID#</b> del #ORDER_DATE# se ha creado correctamente.";
+$MESS['SOA_TEMPL_ORDER_SUC1'] = "Puede seguir el progreso de su pedido en <a href=\"#LINK#\">la sección Personal</a>. Tenga en cuenta que para ingresar a esta sección, deberá ingresar el nombre de usuario y la contraseña del usuario del sitio.";
+$MESS['SOA_TEMPL_PAY'] = "Orden de pago";
+$MESS['SOA_TEMPL_PAY_LINK'] = "Si la ventana con la información de pago no se abre automáticamente, haga clic en el enlace <a href=\"#LINK#\" target=\"_blank\">Pagar el pedido</a>.";
+$MESS['SOA_TEMPL_PAY_PDF'] = "Para descargar la factura en formato pdf, haga clic en el enlace <a href=\"#LINK#\" target=\"_blank\">Descargar factura</a>.";
+$MESS['SOA_TEMPL_ERROR_ORDER'] = "Error de creación de pedido";
+$MESS['SOA_TEMPL_ERROR_ORDER_LOST'] = "No se encontró el número de pedido #ORDER_ID#.";
+$MESS['SOA_TEMPL_ERROR_ORDER_LOST1'] = "Comuníquese con la administración de la tienda en línea o intente realizar su pedido nuevamente.";
+$MESS['SOA_TEMPL_SUM_NAME'] = "Nombre";
+$MESS['SOA_TEMPL_SUM_PROPS'] = "Propiedades";
+$MESS['SOA_TEMPL_SUM_PRICE_TYPE'] = "Tipo de precio";
+$MESS['SOA_TEMPL_SUM_DISCOUNT'] = "Un descuento";
+$MESS['SOA_TEMPL_SUM_WEIGHT'] = "Peso";
+$MESS['SOA_TEMPL_SUM_QUANTITY'] = "Cant.";
+$MESS['SOA_TEMPL_SUM_PRICE'] = "Precio";
+$MESS['SOA_TEMPL_SUM_WEIGHT_SUM'] = "Peso total:";
+$MESS['SOA_TEMPL_SUM_SUMMARY'] = "Artículos sobre:";
+$MESS['SOA_TEMPL_SUM_VAT'] = "IVA:";
+$MESS['SOA_TEMPL_SUM_DELIVERY'] = "Entrega:";
+$MESS['SOA_TEMPL_SUM_IT'] = "Total:";
+$MESS['SOA_TEMPL_SUM_PAYED'] = "Pagado desde cuenta interna:";
+$MESS['SOA_TEMPL_SUM_ADIT_INFO'] = "Información Adicional";
+$MESS['SOA_TEMPL_SUM_COMMENTS'] = "Comentarios sobre el pedido:";
+$MESS['SOA_TEMPL_SUM_TITLE'] = "Lista de orden";
+$MESS['SOA_TEMPL_ORDER_COMPLETE'] = "Se ha generado el pedido";
+$MESS['STOF_PRIVATE_NOTES'] = "La información personal obtenida a disposición de la tienda online durante el registro o de cualquier otra forma no será cedida a terceras organizaciones y personas sin el permiso de los usuarios, excepto en situaciones en las que así lo exija la ley o una decisión judicial.";
+$MESS['CAPTCHA_REGF_TITLE'] = "Protección contra el registro automático";
+$MESS['CAPTCHA_REGF_PROMT'] = "Ingrese la palabra en la imagen";
+$MESS['STOF_2REG'] = "Para clientes que regresan";
+$MESS['STOF_2NEW'] = "Para nuevos compradores";
+$MESS['STOF_LOGIN_PROMT'] = "Si recuerda su nombre de usuario y contraseña, ingréselos en los campos correspondientes:";
+$MESS['STOF_LOGIN'] = "Iniciar sesión";
+$MESS['STOF_PASSWORD'] = "Contraseña";
+$MESS['STOF_FORGET_PASSWORD'] = "¿Olvidaste tu contraseña?";
+$MESS['STOF_NEXT_STEP'] = "Continuar con el registro";
+$MESS['STOF_NAME'] = "Nombre";
+$MESS['STOF_LASTNAME'] = "Apellido";
+$MESS['STOF_MY_PASSWORD'] = "Establecer nombre de usuario y contraseña";
+$MESS['STOF_RE_PASSWORD'] = "Repite la contraseña";
+$MESS['STOF_SYS_PASSWORD'] = "Generar nombre de usuario y contraseña";
+$MESS['STOF_REQUIED_FIELDS_NOTE'] = "Los campos obligatorios están marcados con un \"asterisco\" (<font color=\"#FF0000\">*</font>).";
+$MESS['STOF_EMAIL_NOTE'] = "Después del registro, recibirá una carta de información.";
+$MESS['SALE_DELIV_PRICE'] = "El costo";
+$MESS['SOA_NO_JS'] = "JavaScript debe estar habilitado para realizar un pedido. Aparentemente, JavaScript no es compatible con el navegador o está desactivado. Cambie la configuración de su navegador y luego <a href=\"\">vuelva a intentarlo</a>.";
+$MESS['SOA_TEMPL_BUYER_INFO'] = "INFORMACIÓN SOBRE EL PAGADOR";
+$MESS['SOA_TEMPL_BUYER_SHOW'] = "Expandir";
+$MESS['SOA_TEMPL_BUYER_HIDE'] = "Colapso";
+$MESS['SOA_TEMPL_SUM_PICTURE'] = "Imagen";
+$MESS['SOA_POPUP_SAVE'] = "Salvar";
+$MESS['SOA_ORDER_GIVE'] = "Puntos de recogida";
+$MESS['SOA_ORDER_GIVE_TITLE'] = "Punto de emisión";
+$MESS['SOA_TEMPL_RELATED_PROPS'] = "Propiedades relacionadas con el pago y la entrega";
+$MESS['SOA_TEMPL_PAYSYSTEM_PRICE'] = "Contra reembolso: #PAYSYSTEM_PRICE#";
+$MESS['SALE_TYPE'] = "Tipo de precio";
+$MESS['SALE_PRODUCTS'] = "Productos";
+$MESS['SALE_PRODUCTS_SUMMARY'] = "Elementos en orden";
+$MESS['SALE_PACKS_COUNT'] = "Cajas necesarias (piezas)";
+$MESS['SOA_ORDER_DELIVERY_EXTRA_PARAMS'] = "Parámetros adicionales para la entrega";
+$MESS['SOA_ORDER_DELIVERY_EXTRA_PARAMS_SAVE_ERROR'] = "Error al guardar datos";
+$MESS['SOA_OTHER_LOCATION'] = "Otra localización";
+$MESS['SOA_LOCATION_NOT_FOUND'] = "Ubicación no encontrada";
+$MESS['SOA_LOCATION_NOT_FOUND_PROMPT'] = "Haga clic en #ANCHOR#agregar ubicación#ANCHOR_END# para indicarnos dónde entregar su pedido";
+$MESS['SOA_NOT_SELECTED_ALT'] = "Si es necesario, aclare la ubicación.";
+$MESS['SOA_TEMPL_ORDER_PS_ERROR'] = "Error en la forma de pago seleccionada. Comuníquese con la Administración del sitio o elija otro método de pago.";
+
+
+$MESS['CUSTOM_CONFIRM_WAITING_PAYMENT'] = "Estamos esperando el pago";
+$MESS['CUSTOM_CONFIRM_SCHET_TIME'] = "La factura es válida por <br/>5 días hábiles.";
+$MESS['CUSTOM_CONFIRM_THANKS'] = "Gracias por tu pedido # #ORDER_ID#";
+$MESS['CUSTOM_CONFIRM_DOAWNLOAD_PDF'] = "Descargar factura PDF";
+$MESS['CUSTOM_CONFIRM_PAY_YANDEX'] = "Yandex.Pagar";
+$MESS['CUSTOM_CONFIRM_PRODUCTS'] = "Nuestros productos";
+
+
+$MESS['CUSTOM_PAID_MAIN'] = "SU PEDIDO # 1 #ORDER_ID# pagado";
+$MESS['CUSTOM_PAID_THANKS'] = "¡Gracias!<br/>EN BREVE CONTACTAREMOS CON USTED";
+$MESS['CUSTOM_PAID_PERSONAL'] = "Área personal";
+
+$MESS['CUSTOM_ORDER_PERSON_IINFO'] = "INFORMACIÓN SOBRE EL PAGADOR";
+$MESS['CUSTOM_ORDER_PERSON_TYPE_NAME_1'] = "Entidad legal";
+$MESS['CUSTOM_ORDER_PERSON_TYPE_NAME_2'] = "Individuo";
+$MESS['CUSTOM_ORDER_PERSON_TYPE_NAME_3'] = "Emprendedor autónomo";
+$MESS['CUSTOM_ORDER_PAYMENT_TYPE_NAME_4'] = "Yandex.Pagar";
+$MESS['CUSTOM_ORDER_PAYMENT_TYPE_NAME_3'] = "Yandex.Pagar";
+$MESS['CUSTOM_ORDER_PAYMENT_TYPE_NAME_2'] = "Descargar factura PDF";
+
+$MESS['CUSTOM_ORDER_FIELD_INN'] = 'NIT';
+$MESS['CUSTOM_ORDER_FIELD_NAME'] = 'Nombre completo';
+$MESS['CUSTOM_ORDER_FIELD_OGRNIP'] = 'OGRNIP';
+$MESS['CUSTOM_ORDER_FIELD_ADDRESS'] = 'Domicilio legal';
+$MESS['CUSTOM_ORDER_FIELD_MAIL_ADDRESS'] = 'Dirección postal';
+$MESS['CUSTOM_ORDER_FIELD_BIK'] = 'IBAN o nombre del banco';
+$MESS['CUSTOM_ORDER_FIELD_KOR_ACC'] = 'Cuenta correspondiente';
+$MESS['CUSTOM_ORDER_FIELD_CHECK_ACC'] = 'Cuenta corriente';
+$MESS['CUSTOM_ORDER_FIELD_EMAIL'] = 'Correo electrónico';
+$MESS['CUSTOM_ORDER_FIELD_WORK_PHONE'] = 'Teléfono';
+$MESS['CUSTOM_ORDER_FIELD_OGRN'] = 'OGRN';
+$MESS['CUSTOM_ORDER_FIELD_KPP'] = 'Control';
+$MESS['CUSTOM_ORDER_FIELD_WORK_COMPANY'] = 'Nombre de la compañía';
+$MESS['CUSTOM_ORDER_FIELD_DIRECTOR_JOB'] = 'Ocupación del jefe';
+$MESS['CUSTOM_ORDER_FIELD_EVIDENCE'] = 'Actúa sobre la base';
+$MESS['CUSTOM_ORDER_FIELD_DIRECTOR_FIO'] = 'Nombre y apellidos del director';
+$MESS['CUSTOM_ORDER_FIELD_POWER_OF_ATTORNEY'] = 'Poder legal';
+$MESS['CUSTOM_ORDER_FIELD_PASS'] = 'Contraseña';
+$MESS['CUSTOM_ORDER_FIELD_PASS_CONF'] = 'Repita la contraseña';
+$MESS['CUSTOM_ORDER_FIELD_LEGAL_FORM'] = 'Forma de negocio';
+
+$MESS['CUSTOM_ORDER_FIELD_PLACEHOLDER_POWER_OF_ATTORNEY'] = 'Fecha y número del poder';
+$MESS['CUSTOM_ORDER_FIELD_PLACEHOLDER_ADDRESS'] = 'Código postal, país, ciudad, calle, casa, oficina';
+$MESS['CUSTOM_ORDER_FIELD_PLACEHOLDER_MAIL_ADDRESS'] = 'Código postal, país, ciudad, calle, casa, oficina';
+$MESS['CUSTOM_ORDER_FIELD_PLACEHOLDER_NAME'] = 'Nombre completo';
+$MESS['CUSTOM_ORDER_FIELD_PLACEHOLDER_WORK_COMPANY'] = 'Nombre de empresa';
+
+$MESS['CUSTOM_ORDER_FIELD_EVIDENCE_VALUE_regulations'] = "De la carta";
+$MESS['CUSTOM_ORDER_FIELD_EVIDENCE_VALUE_powerOfAttorney'] = "Poderes notariales";
+
+$MESS['CUSTOM_ORDER_INFO_INN'] = "10 dígitos, según TIN cargaremos datos abiertos para los siguientes campos";
+$MESS['CUSTOM_ORDER_INFO_INN_IP'] = "12 dígitos, según TIN cargaremos datos abiertos para los siguientes campos";
+$MESS['CUSTOM_ORDER_ERRORS_PASS'] = "Mínimo 8 caracteres, letras latinas y números.";
+$MESS['CUSTOM_ORDER_ERRORS_EMAIL_FORMAT'] = "Formato de correo inválido";
+$MESS['CUSTOM_ORDER_ERRORS_EMAIL_EXIST'] = "Correo electrónico ya está en uso";
+$MESS['CUSTOM_ORDER_ERRORS_LIC_AGREE'] = "Debes estar de acuerdo con este artículo";
+$MESS['CUSTOM_ORDER_FIELD_LIC_AGREE'] = "Acepto <a href='LIC_LINK'>el Acuerdo de Licencia</a> y confirmo mi consentimiento para <a href='DATA_LINK'>procesamiento de mis datos personales</a> ";
+$MESS['CUSTOM_ORDER_FIELD_LIC_AGREE_VIEWER'] = "Acepto el <a target='_blanck' href='#VIEW_LINK#'>Acuerdo de licencia con el usuario final de Inobitec DICOM Viewer</a>";
+$MESS['CUSTOM_ORDER_FIELD_LIC_AGREE_SERVER'] = "Acepto el <a target='_blanck' href='#SERV_LINK#'>Acuerdo de licencia con el usuario final de Inobitec DICOM Server (PACS)";
+$MESS['CUSTOM_ORDER_FIELD_LIC_AGREE_SERV_VIEW'] = "Acepto el <a target='_blanck' href='#VIEW_LINK#'>Acuerdo de licencia con el usuario final de Inobitec DICOM Viewer</a>, y el <a target='_blanck' href='#SERV_LINK#'>Acuerdo de licencia con el usuario final de Inobitec DICOM Server (PACS)</a> ";
+
+$MESS['CUSTOM_ORDER_CONFIRM_NOTAUT_TITLE'] = "No ha iniciado sesión en su cuenta personal.";
+$MESS['CUSTOM_ORDER_CONFIRM_NOTAUT_LOGIN_LINKTEXT'] = "Ingrese a su cuenta";
+$MESS['CUSTOM_ORDER_CONFIRM_NOTAUT_LOGIN_TEXT'] = " para ver la información del pedido";
+$MESS['CUSTOM_ORDER_CONFIRM_NO_ACCESS'] = 'Sin acceso';
+$MESS['CUSTOM_ORDER_CONFIRM_NO_ACCESS_TEXT1'] = 'Este orden';
+$MESS['CUSTOM_ORDER_CONFIRM_NO_ACCESS_TEXT2'] = 'atado a otro usuario';
+
+?>

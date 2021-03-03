@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"MISSION", 
+		"/eng/about/mission/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"PARTNERS", 
+		"/eng/about/partners/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"REVIEWS", 
+		"/eng/about/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"VACANCIES", 
+		"/eng/about/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"MEDIA", 
+		"/eng/about/media/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"CONTACTS", 
+		"/eng/about/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

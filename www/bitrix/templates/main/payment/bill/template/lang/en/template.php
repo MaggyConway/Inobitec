@@ -1,0 +1,53 @@
+<?
+$MESS["SALE_HPS_BILL_TITLE"] = "Счет-оферта (Лицензионный договор)";
+$MESS["SALE_HPS_BILL_INN"] = "Tax identification number #INN#";
+$MESS["SALE_HPS_BILL_KPP"] = "КПП #KPP#";
+$MESS["SALE_HPS_BILL_SELLER_NAME"] = "Payment receiver";
+$MESS["SALE_HPS_BILL_SELLER_BANK_NAME"] = "Payee's bank";
+$MESS["SALE_HPS_BILL_SELLER_BANK_BIK"] = "БИК";
+$MESS["SALE_HPS_BILL_SELLER_ACC"] = "сч. №";
+$MESS["SALE_HPS_BILL_SELLER_ACC_CORR"] = "сч. №";
+$MESS["SALE_HPS_BILL_SELLER_TITLE"] = "№ #PAYMENT_NUM# from #PAYMENT_DATE#";
+$MESS["SALE_HPS_BILL_SELLER_DATE_END"] = "Due date #PAYMENT_DATE_END#";
+$MESS["SALE_HPS_BILL_BUYER_NAME"] = "Payer: #BUYER_NAME#";
+$MESS["SALE_HPS_BILL_BUYER_INN"] = " Tax identification number #INN#";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_NAME"] = "Name of product";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_QUANTITY"] = "Qty";
+$MESS["SALE_HPS_BILL_BASKET_MEASURE"] = "Unit";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_PRICE"] = "Price";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_SUM"] = "Amount";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_VAT_RATE"] = "VAT rate";
+$MESS["SALE_HPS_BILL_TOTAL_VAT_RATE"] = "No tax (VAT)*";
+$MESS["SALE_HPS_BILL_TOTAL_VAT_RATE_NO"] = "-";
+$MESS["SALE_HPS_BILL_DELIVERY"] = "Delivery";
+$MESS["SALE_HPS_BILL_SUBTOTAL"] = "Subtotal:";
+$MESS["SALE_HPS_BILL_INCLUDING"] = "Including ";
+$MESS["SALE_HPS_BILL_TOTAL_PAID"] = "Already paid:";
+$MESS["SALE_HPS_BILL_TOTAL_DISCOUNT"] = "Discount:";
+$MESS["SALE_HPS_BILL_DISCOUNT"] = "Discount";
+$MESS["SALE_HPS_BILL_TOTAL_SUM"] = "Total:";
+$MESS["SALE_HPS_BILL_BASKET_TOTAL"] = "Total items #BASKET_COUNT#, for the amount of #BASKET_PRICE#";
+$MESS["SALE_HPS_BILL_COND_COMM"] = "Terms and Comments";
+$MESS["SALE_HPS_BILL_SELLER_COMPANY_PHONE"] = "Phone: #PHONE#";
+$MESS["SALE_HPS_BILL_BASKET_MEASURE_DEFAULT"] = 'pcs.';
+$MESS["SALE_HPS_BILL_NUMBER"] = '№';
+
+
+$MESS["SALE_HPS_BILL_VAT_COMMENT"] = '*НДС не облагается (пп.26 п.2 ст.149 НК РФ)';
+$MESS["SALE_HPS_BILL_BILL_OFERTA_COMMENT"] = 'Счет-фактура не выставляется на основании п.3 ст.169 НК РФ (в ред. закона 420-ФЗ от 28.12.2013)';
+$MESS["SALE_HPS_BILL_PFYMENT_PURPOSE"] = 'Purpose of payment';
+$MESS["SALE_HPS_BILL_PFYMENT_PURPOSE_DATA"] = 'Оплата по сч. №#PAYMENT_NUM# от #PAYMENT_DATE# за неисключительные права на использование ПО для ЭВМ по лицензионному договору, без налога (НДС)';
+$MESS["SALE_HPS_BILL_LICENSOR"] = 'Licensor';
+$MESS["SALE_HPS_BILL_LICENSEE"] = 'Licensee';
+$MESS["SALE_HPS_BILL_IP"] = 'Individual entrepreneur ';
+
+$MESS["SALE_HPS_BILL_COLUMN_NUMBER_VALUE"] = "№";
+$MESS["SALE_HPS_BILL_COLUMN_NAME_VALUE"] = "Name of product";
+$MESS["SALE_HPS_BILL_COLUMN_QUANTITY_VALUE"] = "Qty";
+$MESS["SALE_HPS_BILL_COLUMN_MEASURE_VALUE"] = "Ед.";
+$MESS["SALE_HPS_BILL_COLUMN_PRICE_VALUE"] = "Price";
+$MESS["SALE_HPS_BILL_COLUMN_SUM_VALUE"] = "Amount";
+$MESS["SALE_HPS_BILL_COLUMN_VAT_RATE_VALUE"] = "VAT rate";
+
+$MESS["SELLER_COMPANY_DIRECTOR_POSITION"] = "CEO";
+$MESS["SELLER_COMPANY_ACCOUNTANT_POSITION"] = "Chief Accountant";

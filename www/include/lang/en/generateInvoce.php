@@ -1,0 +1,69 @@
+<?
+$MESS["SALE_HPS_BILL_TITLE"] = "Invoice-offer (License Agreement)";
+$MESS["SALE_HPS_BILL_INN"] = "TIN #INN#";
+$MESS["SALE_HPS_BILL_KPP"] = "IEC #KPP#";
+$MESS["SALE_HPS_BILL_SELLER_NAME"] = "Payment receiver";
+$MESS["SALE_HPS_BILL_SELLER_BANK_NAME"] = "Payee's bank";
+$MESS["SALE_HPS_BILL_SELLER_BANK_BIK"] = "БИК";
+$MESS["SALE_HPS_BILL_SELLER_ACC"] = "сч. №";
+$MESS["SALE_HPS_BILL_SELLER_ACC_CORR"] = "сч. №";
+$MESS["SALE_HPS_BILL_SELLER_TITLE"] = "№ #PAYMENT_NUM# from #PAYMENT_DATE#";
+$MESS["SALE_HPS_BILL_SELLER_DATE_END"] = "Due date #PAYMENT_DATE_END#";
+$MESS["SALE_HPS_BILL_BUYER_NAME"] = "Payer: #BUYER_NAME#";
+$MESS["SALE_HPS_BILL_BUYER_INN"] = " TIN #INN#";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_NAME"] = "Product name";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_QUANTITY"] = "Qty";
+$MESS["SALE_HPS_BILL_BASKET_MEASURE"] = "Unit";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_PRICE"] = "Price";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_SUM"] = "Amount";
+$MESS["SALE_HPS_BILL_BASKET_ITEM_VAT_RATE"] = "VAT rate";
+$MESS["SALE_HPS_BILL_TOTAL_VAT_RATE"] = "No tax (VAT)*";
+$MESS["SALE_HPS_BILL_TOTAL_VAT_RATE_NO"] = "-";
+$MESS["SALE_HPS_BILL_DELIVERY"] = "Delivery";
+$MESS["SALE_HPS_BILL_SUBTOTAL"] = "Subtotal:";
+$MESS["SALE_HPS_BILL_INCLUDING"] = "Including ";
+$MESS["SALE_HPS_BILL_TOTAL_PAID"] = "Already paid:";
+$MESS["SALE_HPS_BILL_TOTAL_DISCOUNT"] = "Discount:";
+$MESS["SALE_HPS_BILL_DISCOUNT"] = "Discount";
+$MESS["SALE_HPS_BILL_TOTAL_SUM"] = "Total:";
+$MESS["SALE_HPS_BILL_BASKET_TOTAL"] = "Total items #BASKET_COUNT#, for the amount of #BASKET_PRICE#";
+$MESS["SALE_HPS_BILL_COND_COMM"] = "Terms and Comments";
+$MESS["SALE_HPS_BILL_SELLER_COMPANY_PHONE"] = "Phone: #PHONE#";
+$MESS["SALE_HPS_BILL_BASKET_MEASURE_DEFAULT"] = 'units';
+$MESS["SALE_HPS_BILL_NUMBER"] = '№';
+
+
+$MESS["SALE_HPS_BILL_VAT_COMMENT"] = '* VAT exempt (subp. 26 p. 2 art. 149 of the Tax Code of the Russian Federation)<br/>Russian Payment Purpose Codes VO12050';
+$MESS["SALE_HPS_BILL_BILL_OFERTA_COMMENT"] = 'An invoice is not issued in accordance with the p. 3, art. 169 of the Tax Code of the Russian Federation (as amended by Law 420-FZ from December 28, 2013) ';
+$MESS["SALE_HPS_BILL_PFYMENT_PURPOSE"] = 'Purpose of payment';
+$MESS["SALE_HPS_BILL_PFYMENT_PURPOSE_DATA"] = 'Invoice-offer (License Agreement) No. #PAYMENT_NUM# from #PAYMENT_DATE# ';
+$MESS["SALE_HPS_BILL_LICENSOR"] = 'Licensor';
+$MESS["SALE_HPS_BILL_LICENSEE"] = 'Licensee';
+$MESS["SALE_HPS_BILL_IP"] = 'Individual entrepreneur ';
+
+$MESS["SALE_HPS_BILL_COLUMN_NUMBER_VALUE"] = "№";
+$MESS["SALE_HPS_BILL_COLUMN_NAME_VALUE"] = "Product name";
+$MESS["SALE_HPS_BILL_COLUMN_QUANTITY_VALUE"] = "Units";
+$MESS["SALE_HPS_BILL_COLUMN_MEASURE_VALUE"] = "Units";
+$MESS["SALE_HPS_BILL_COLUMN_PRICE_VALUE"] = "Price";
+$MESS["SALE_HPS_BILL_COLUMN_SUM_VALUE"] = "Amount";
+$MESS["SALE_HPS_BILL_COLUMN_VAT_RATE_VALUE"] = "VAT rate";
+
+$MESS["SELLER_COMPANY_DIRECTOR_POSITION"] = "General Director";
+$MESS["SELLER_COMPANY_ACCOUNTANT_POSITION"] = "Chief Accountant";
+
+
+$MESS["SELLER_HPS_BILL_INTERMEDIARY"] = "Intermediary: #buyerBankName#";
+$MESS["SELLER_HPS_BILL_INTERMEDIARY_BANK_ACC"] = "Intermediary’s Bank Account: ";
+$MESS["SELLER_HPS_BILL_INTERMEDIARY_BANK_SWIFT"] = "Intermediary’s Bank SWIFT: #buyerBankSWIFT#";
+
+$MESS["SELLER_HPS_BILL_BENEFICIRY"] = "Beneficiary: #COMPANY_NAME#";
+$MESS["SELLER_HPS_BILL_BENEFICIRY_BANK_NAME1"] = "Beneficiary’s Bank Name: ";
+$MESS["SELLER_HPS_BILL_BENEFICIRY_BANK_NAME2"] = "Beneficiary’s Bank Name: ";
+$MESS["SELLER_HPS_BILL_BENEFICIRY_BANK_IBAN"] = "IBAN: ";
+$MESS["SELLER_HPS_BILL_BENEFICIRY_BANK_SWIFT"] = "Beneficiary’s Bank SWIFT: ";
+
+$MESS["INTERMEDIARY"] = "Intermediary:";
+$MESS["INTERMEDIARY_BANK_SWIFT"] = "Intermediary's Bank SWIFT:";
+$MESS["INTERMEDIARY_BANK_ADDRESS"] = "Intermediary's Bank Address:";
+$MESS["INTERMEDIARY_BANK_ACCOUNT"] = "Intermediary's Bank Account:";

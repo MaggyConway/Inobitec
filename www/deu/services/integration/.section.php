@@ -1,0 +1,6 @@
+<?
+$sSectionName = "INTEGRATION";
+$arDirProperties = array(
+
+);
+?>

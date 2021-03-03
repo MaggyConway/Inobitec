@@ -1,0 +1,4 @@
+User-Agent: *
+Sitemap: http://inobitec.com/sitemap.xml
+Sitemap: http://inobitec.com/eng/sitemap.xml
+Sitemap: http://inobitec.com/sitemap-new.xml

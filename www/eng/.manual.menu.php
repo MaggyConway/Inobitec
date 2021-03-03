@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Main page", 
+		"/eng/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Products", 
+		"/eng/products/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Services", 
+		"/eng/services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Downloads", 
+		"/eng/downloads/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About", 
+		"/eng/about/mission/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

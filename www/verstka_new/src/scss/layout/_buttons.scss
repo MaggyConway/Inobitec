@@ -1,0 +1,133 @@
+.btn_n{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 200px;
+	height: 50px;
+
+	border: 2px solid #426DA9;
+	box-sizing: border-box;
+	border-radius: 10px;
+
+	color: #426DA9;
+
+	font-family: RobotoMonoRegular,sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: normal;
+	text-align: center;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+
+	cursor: pointer;
+	transition: all 0.3s ease;
+
+	&:hover{
+		border-color: #002855;
+		color: #002855;
+	}
+
+	&.disabled{
+		border-color: #D0D0D0 !important;
+		color: #D0D0D0 !important;
+	}
+
+	&.solid{
+		background: #426DA9;
+		border: 2px solid #426DA9;
+		box-sizing: border-box;
+		border-radius: 10px;
+		color: #FFFFFF;
+
+		&:hover{
+			background: #002855;
+			border: 2px solid #002855;
+		}
+	}
+
+	&.red{
+		background: transparent;
+		border: 2px solid #DA291C;
+		color: #DA291C;
+
+		&:hover{
+			background: #DA291C;
+			border: 2px solid #DA291C;
+			color: #FFFFFF;
+		}
+	}
+
+	&.left{
+		padding-left: 30px;
+		padding-right: 30px;
+		float: left;
+		width: auto;
+	}
+	&.right{
+		padding-left: 30px;
+		padding-right: 30px;
+		float: right;
+		width: auto;
+	}
+
+	&.big{
+		width: 300px;
+
+		@media screen and (max-width: 1020px){
+			width: 100%;
+		}
+	}
+}
+
+
+.buttons_box{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+
+	&.center{
+		justify-content: center;
+
+		& > div, & > a{
+			margin-right: 66px;
+			margin-bottom: 30px;
+
+			@media screen and (max-width: 1020px){
+				width: 100%;
+			}
+
+			&:last-child{
+				margin-right: 0px;
+			}
+		}
+	}
+
+	@media screen and (max-width: 1020px){
+		display: block;
+	}
+}
+.button_box{
+	width: 300px;
+	margin-right: 66px;
+
+	@media screen and (max-width: 1020px){
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 30px;
+	}
+
+	span{
+		display: block;
+		padding-top: 18px;
+		font-family: RobotoMonoRegular,sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 16px;
+		text-align: center;
+		text-transform: uppercase;
+
+		color: #A8A8A8;
+	}
+}
